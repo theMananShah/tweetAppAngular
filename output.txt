@@ -1,0 +1,8 @@
+REPOSITORY                       TAG       IMAGE ID       CREATED         SIZE
+themananshah/tweet-app-angular   latest    83a3e060d742   2 minutes ago   21.3MB
+themananshah/tweet-app-service   latest    c83307b11ad3   21 hours ago    709MB
+themananshah/tweet-app-service   <none>    a560df4a9512   22 hours ago    575MB
+tweet-app-angular                latest    aba725a48a23   3 days ago      21.3MB
+docker/getting-started           latest    cb90f98fd791   4 weeks ago     28.8MB
+grafana/grafana                  latest    ec803f17f72d   5 weeks ago     286MB
+prom/prometheus                  latest    e3cf894a63f5   8 weeks ago     205MB

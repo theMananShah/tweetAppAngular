@@ -1,0 +1,22 @@
+<div class="container">
+    <table class="table table-borderless">
+        <thead>
+            <tr>
+                <th>FirstName</th>
+                <th>LastName</th>
+                <th>Gender</th>
+                <th>Date Of Birth</th>
+                <th>EmailID</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let user of get.data">
+                <td>{{user.firstName}}</td>
+                <td>{{user.lastName}}</td>
+                <td>{{user.gender}} </td>
+                <td>{{user.dob}} </td>
+                <td>{{user.emailId}} </td>
+            </tbody>
+        </table>
+    </div>
